@@ -3,4 +3,4 @@ Repositório de arquivos relacionados aos trabalhos de conclusão de curso (TCCs
 
 Neste repositório, os arquivos estão vinculados aos respectivos TCCs publicados.
 
-Adicionalmente, na pasta Modelo de TCC, podem ser obtidos os documentos mais recentes do modelo de TCC desenvolvido em LaTex na plataforma Overleaf.
+Adicionalmente, na pasta "Modelo de TCC", podem ser obtidos os documentos mais recentes do modelo de TCC desenvolvido em LaTex na plataforma Overleaf.
